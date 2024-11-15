@@ -2,7 +2,7 @@
 
 About Me
 
-💻 Aspiring developer passionate about creating innovative solutions
+💻 Cool Developer
 🌱 Currently learning multiple programming languages:
 
 Python
