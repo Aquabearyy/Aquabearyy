@@ -1,32 +1,30 @@
-👋 Hello, I'm @sxlent404
+# 🐻 sxlent404
 
-About Me
+## 💫 About Me
+- 🎮 Cool Developer.
+- 🚀 Mastering the art of:
+  - 🐍 Python
+  - #️⃣ C#
+  - 🌙 Lua
+- 🎯 Mission: Create a Famous Project
+- 🌍 Based in Cyprus
 
-💻 Cool Developer
-🌱 Currently learning multiple programming languages:
+## 🛠️ Skills
+```python
+SKILLS = {
+    'Python': 'Learning 📚',
+    'C#':     'Learning 💻',
+    'Lua':    'Learning 🎮'
+}
+```
 
-Python
-C#
-Lua
+## 🤝 Connect
+- Discord: sxlent404
+- Open for epic collaborations!
 
+## 🎭 Personal
+- Pronouns: He/Him
+- Fun Fact: I don't like "why" questions
 
-👨‍💻 Looking to collaborate on practical scripts and applications
-🎯 Goal: Create a Famous Project
-
-Skills
-🔷 Python    [Learning]
-🔷 C#        [Learning]
-🔷 Lua       [Learning]
-Connect With Me
-
-💬 Discord: sxlent404
-🤝 Open to collaboration and learning opportunities
-
-Personal
-
-😄 Pronouns: He/Him
-🌍 Based in: Cyprus
-⚡ Fun fact: I dont like "why" questions.
-
-
-Always learning, always coding! Feel free to reach out for collaborations or just to chat about code.
+---
+*Coding through the matrix, one line at a time* 🕶️
