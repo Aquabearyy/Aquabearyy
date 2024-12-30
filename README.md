@@ -1,9 +1,8 @@
-# 🐻 sxlent404
+# 🐻 beary_v2
 
 ## 💫 About Me
 - 🎮 Cool Developer.
 - 🚀 Mastering the art of:
-  - 🐍 Python
   - #️⃣ C#
   - 🌙 Lua
 - 🎯 Mission: Create a Famous Project
@@ -19,8 +18,8 @@ SKILLS = {
 ```
 
 ## 🤝 Connect
-- Discord: sxlent404
-- Open for epic collaborations!
+- Discord: beary_v2
+- Open for collabs!
 
 ## 🎭 Personal
 - Pronouns: He/Him
