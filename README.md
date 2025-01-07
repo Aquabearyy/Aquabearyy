@@ -1,4 +1,4 @@
-# 🐻 beary_v2
+# 🐻 Aquabeary
 
 ## 💫 About Me
 - 🎮 Cool Developer.
@@ -11,7 +11,6 @@
 ## 🛠️ Skills
 ```python
 SKILLS = {
-    'Python': 'Learning 📚',
     'C#':     'Learning 💻',
     'Lua':    'Learning 🎮'
 }
