@@ -17,7 +17,7 @@ SKILLS = {
 ```
 
 ## 🤝 Connect
-- Discord: beary_v2
+- Discord: aquabeary
 - Open for collabs!
 
 ## 🎭 Personal
