@@ -11,8 +11,8 @@
 ## 🛠️ Skills
 ```python
 SKILLS = {
-    'C#':     'Learning 💻',
-    'Lua':    'Learning 🎮'
+    'C#':     'Learning.',
+    'Lua':    'Learning, Almost fluent.'
 }
 ```
 
@@ -25,4 +25,4 @@ SKILLS = {
 - Fun Fact: I don't like "why" questions
 
 ---
-*Coding through the matrix, one line at a time* 🕶️
+*Coding through the matrix, one line at a time* 😎😎
