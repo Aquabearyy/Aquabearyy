@@ -15,7 +15,6 @@
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
 </div>
 <div align="center">
 <div align="center">
