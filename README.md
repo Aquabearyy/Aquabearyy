@@ -16,9 +16,16 @@
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
 </div>
+
+<!-- GitHub Stats Section Above Contact -->
 <div align="center">
+  <h3>Statistics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=aquabearyy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</div>
+
 <div align="center">
   <h3>Contact</h3>
   <a href="https://discord.com/users/1186748271172010004"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
 </div>
+
 <img height=15 align="right" src="https://komarev.com/ghpvc/?username=Aquabearyy&abbreviated=true" />
